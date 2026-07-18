@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics: Demand and Supply Studio",
+  "description": "An interactive HKDSE Economics learning platform for Demand, Supply, Equilibrium, and real-world Hong Kong case analysis with AI grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
